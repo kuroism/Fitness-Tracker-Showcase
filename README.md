@@ -236,6 +236,4 @@ _Scan with WeChat to open the mini-program_
 
 **Built with ❤️ using Vue 3, NestJS, and Prisma**
 
-[⬆ Back to Top](#-fitness-tracker---full-stack-demo)
-
 </div>
