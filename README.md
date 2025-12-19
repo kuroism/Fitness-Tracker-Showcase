@@ -6,7 +6,8 @@
   [![Vue.js](https://img.shields.io/badge/Vue.js-3.4-42b883?logo=vue.js)](https://vuejs.org/)
   [![NestJS](https://img.shields.io/badge/NestJS-9.0-ea2845?logo=nestjs)](https://nestjs.com/)
   [![Prisma](https://img.shields.io/badge/Prisma-5.16-2D3748?logo=prisma)](https://www.prisma.io/)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+  <img src="./assets/logo.png" alt="QR Code" width="50" />
 
 **A comprehensive fitness tracking application showcasing production-ready full-stack development**
 
@@ -185,7 +186,7 @@ Since this is a **WeChat Mini-Program** project, you can scan the QR code below 
 
 ### 📲 Scan to Preview
 
-![QR Code](./assets/qrcode.png)
+<img src="./assets/qrcode.png" alt="QR Code" width="200" />
 
 _Scan with WeChat to open the mini-program_
 
